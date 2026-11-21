@@ -1,0 +1,6 @@
+{
+  "train_rows": 24780,
+  "test_rows": 6060,
+  "test_mae_2_4w_cases": 2.548,
+  "test_rmse_2_4w_cases": 4.783
+}
